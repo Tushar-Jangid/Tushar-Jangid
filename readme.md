@@ -219,10 +219,10 @@
 
 <td align="center" width="130">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
      width="60"
      height="60"
-     alt="Docker"/>
+     alt="FastAPI"/>
 
 <br>
 
@@ -230,6 +230,10 @@
 
 </td>
 
+</tr>
+
+
+<tr>
 
 <td align="center" width="130">
 
@@ -247,10 +251,10 @@
 
 <td align="center" width="130">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
      width="60"
      height="60"
-     alt="Django"/>
+     alt="MySQL"/>
 
 <br>
 
@@ -277,9 +281,6 @@
 </table>
 
 </div>
-
-
----
 
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
