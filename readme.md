@@ -10,6 +10,10 @@
        style="display: inline-block; vertical-align: middle;"
        alt="Hi" />
 
+<p align="center">
+  <img src="Resources/ban.png" width="100%" />
+</p>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=👋+Hi+there%2C+I'm+Tushar+Jangid!;🤖+AI+Engineer+%7C+ML+Enthusiast;🧠+Machine+Learning+%7C+Deep+Learning;🔎+RAG+%7C+GenAI+%7C+Computer+Vision;🐍+Python+%7C+PyTorch+%7C+TensorFlow;🚀+Building+Real-World+AI+Projects"
        alt="Typing Animation" />
 </h1>
