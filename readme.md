@@ -55,7 +55,6 @@
      width="320"
      alt="Computer Illustration" />
 
-- 🇮🇳 **From:** Rajasthan, India
 - 🎓 **Education:** B.Tech in Computer Science
 - 🤖 **Specialization:** Artificial Intelligence & Data Science
 - 🧑‍💻 **Focus:** AI / ML Engineering
@@ -227,24 +226,6 @@
 
 <br>
 
-<b>Docker</b>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td align="center" width="130">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-     width="60"
-     height="60"
-     alt="FastAPI"/>
-
-<br>
-
 <b>FastAPI</b>
 
 </td>
@@ -270,20 +251,6 @@
      width="60"
      height="60"
      alt="Django"/>
-
-<br>
-
-<b>Django</b>
-
-</td>
-
-
-<td align="center" width="130">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-     width="60"
-     height="60"
-     alt="MySQL"/>
 
 <br>
 
