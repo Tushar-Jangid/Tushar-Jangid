@@ -31,14 +31,14 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=brightgreen&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Tushar-Jangid&label=Profile+Views&color=brightgreen&style=flat-square" />
 
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/followers/Tushar-Jangid?label=Followers&style=flat-square&logo=github" />
 
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/stars/Tushar-Jangid?style=flat-square&logo=github&label=Stars" />
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://badges.strrl.dev/commits/monthly/YOUR_GITHUB_USERNAME?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Tushar-Jangid">
+    <img src="https://badges.strrl.dev/commits/monthly/Tushar-Jangid?style=flat-square&color=black&logo=github">
   </a>
 
 </p>
