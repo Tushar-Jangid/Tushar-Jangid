@@ -289,7 +289,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,fastapi,flask,django,mysql,mongodb,git,github,docker,vscode,linux,pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,mysql,mongodb,git,github,vscode,linux,pytorch,tensorflow,opencv" />
 
 </p>
 
@@ -323,49 +323,3 @@
 
 
 ---
-
-
-<!-- ================= PROJECTS ================= -->
-
-# 🚀 Featured Projects
-
-
-## 👤 Face Recognition Attendance System
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI-Face%20Recognition-36BCF7?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-
-<img src="https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
-
-</p>
-
-
-> AI-powered employee attendance system based on face recognition and face embeddings.
-
-### 🔹 Features
-
-- 🎥 Video-based employee registration
-- 👁️ Face detection using OpenCV
-- 🧠 Deep learning based face embeddings
-- 🔢 512-dimensional embeddings
-- 🔍 Cosine similarity matching
-- ❓ Unknown face detection
-- ➕ New employee registration without retraining
-- ⚡ Fast embedding-based matching
-- 🧩 PyTorch-based pipeline
-
-
-### 🛠️ Technologies
-
-```text
-Python
-PyTorch
-OpenCV
-CNN
-Face Embeddings
-Cosine Similarity
-Computer Vision
-Deep Learning
